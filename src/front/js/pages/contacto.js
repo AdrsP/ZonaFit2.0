@@ -2,6 +2,7 @@ import React from "react";
 import "../../pages/home/style/home.css";
 
 export const Contacto = () => {
+    
     return (
         <div className="contact" id="contact">
             <div className="container">
